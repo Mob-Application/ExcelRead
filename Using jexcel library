@@ -1,0 +1,1 @@
+You can implement to read excel data by using jexcel library. It uses only .xls format to read any link that you placed your excel sheet. 
